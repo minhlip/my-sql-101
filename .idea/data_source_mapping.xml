@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/console.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/console_1.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/console_2.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/lesson_1.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/lesson_2.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d09a5881-4d92-4220-8dfd-ea90dace8c0a/seed/seed_tables.sql" value="d09a5881-4d92-4220-8dfd-ea90dace8c0a" />
   </component>
 </project>
